@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rutuja
 - 👀 I’m interested in Web development, Competitive programming, Data science.
 - 🌱 I’m currently learning web development.
-- 📫 How to reach me email- rutusmore2001@gmail.com
 
 <!---
 rutuja4201/rutuja4201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
