@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rutuja
-- 👀 I’m interested in Web development, Competitive programming, Data science.
+- 👀 I’m interested in Web development, Competitive programming, Augmented reality and virtual reality.
 - 🌱 I’m currently learning web development.
 
 <!---
