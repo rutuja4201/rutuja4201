@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Rutuja
-- 👀 I’m interested in Web development, Competitive programming, Augmented reality and virtual reality.
-- 🌱 I’m currently learning web development.
+- 👀 An inquisitive tech geek who likes to explore and experiment with different things
+- 🧠 I like to solve mind boggling problems
+- 👩‍💻 I have previously interned at Morgan Stanley
+- 💻 I am well versed with Data structures and algorithms
 
 <!---
 rutuja4201/rutuja4201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
