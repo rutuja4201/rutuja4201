@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rutuja
 - 👀 An inquisitive tech geek who likes to explore and experiment with different things
 - 🧠 I like to solve mind boggling problems
-- 👩‍💻 I have previously interned at Morgan Stanley
 - 💻 I am well versed with Data structures and algorithms
 
 <!---
