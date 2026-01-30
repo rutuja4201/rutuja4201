@@ -11,7 +11,7 @@
 ### 👩‍💻 About Me
 - 🔭 Currently working as a Software Engineer 2 @Morgan Stanley  
 - 🌱 Learning system design & advanced backend patterns  
-- 💬 Ask me about C++, Java, Spring Boot, Databases, and problem solving 
+- 💬 Ask me about Java, C++, Spring Boot, Databases, and problem solving 
 
 ---
 
